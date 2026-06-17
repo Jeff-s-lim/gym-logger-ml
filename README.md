@@ -11,6 +11,8 @@ gym logger using Hevy's built in log export feature.
 - mae vs model mae
 
 ## planned future implementations
+- weight input system per week with correlation
+- prediction weight system with "cutting" & "bulking" features
 - proper frontend using react/typescript
 - user authentication
 - database using postgresql
