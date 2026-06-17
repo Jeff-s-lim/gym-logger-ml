@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Local/private workout data
+*.csv
+!data/sample_workouts.csv
+
+# Python/cache/local files
+__pycache__/
+*.pyc
+.DS_Store
